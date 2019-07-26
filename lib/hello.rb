@@ -1,7 +1,7 @@
 
 # call your method here!
 
-hello_t(array) do |name|
+hello_t.each do |name|
   if name.start_with?("T")
     puts "Hi, #{name}"
   else 
