@@ -10,3 +10,4 @@ def hello_t(array) do |name|
 end
 
 hello_t(["Tim", "Tom", "Jim"])
+hello_t()
